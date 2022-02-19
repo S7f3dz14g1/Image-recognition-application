@@ -6,6 +6,6 @@ the second problem when recognizing two similar images e.g. dogs and cats, the e
 
 ![img.png](img.png)
 
-##How to run
+## How to run
 
 After turning on the application, select network preferences (patterns and image scaling) and press test. If the error percentage is satisfactory for us we can finish the learning process and test the images of interest.
